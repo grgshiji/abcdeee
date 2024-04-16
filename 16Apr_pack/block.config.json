@@ -1,0 +1,26 @@
+{
+  "blockId": "QapsmfFnk3fFK2-evykwo",
+  "name": "16Apr_pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_16Apr_pack"
+  },
+  "parentBlockIDs": [
+    "r8lEtbLSltsOrAXSXVi98"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "16Apr_pack_fn": {
+      "directory": "16Apr_pack_fn"
+    },
+    "UI_ele": {
+      "directory": "UI_ele"
+    }
+  }
+}

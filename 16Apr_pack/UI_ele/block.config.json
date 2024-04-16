@@ -1,0 +1,22 @@
+{
+  "blockId": "DYbmxWGjNfTL_2AG2gYyK",
+  "name": "UI_ele",
+  "type": "ui-elements",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_UI_ele"
+  },
+  "parentBlockIDs": [
+    "r8lEtbLSltsOrAXSXVi98",
+    "QapsmfFnk3fFK2-evykwo"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
