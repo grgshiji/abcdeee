@@ -1,0 +1,20 @@
+{
+  "blockId": "rdZQFr0XTKvwcGseaj8oS",
+  "name": "B1_16Apr",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/abcdeee.git",
+    "ssh": "git@github.com:grgshiji/abcdeee.git",
+    "branch": "block_B1_16Apr"
+  },
+  "parentBlockIDs": [
+    "zOKDb_DIOCkxJccAl4ool"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

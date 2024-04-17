@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "zOKDb_DIOCkxJccAl4ool",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/abcdeee.git",
+    "ssh": "git@github.com:grgshiji/abcdeee.git",
     "branch": "block_16Apr"
   },
   "parentBlockIDs": [],
@@ -12,5 +12,10 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "B1_16Apr": {
+      "directory": "B1_16Apr"
+    }
+  }
 }
